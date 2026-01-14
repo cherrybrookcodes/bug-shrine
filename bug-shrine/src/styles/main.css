@@ -1,0 +1,9 @@
+main, body {
+    display: flexbox;
+    margin: 0;
+    padding: 0 ;
+    justify-content: centre ;
+    min-width: 100vh;
+    min-height: 100vh;
+    ;
+}

@@ -1,0 +1,9 @@
+.App {
+    background-image: url('/home/tom-bombadil/cherrybrookcodes/testing/bug-shrine/bug-shrine/src/assets/background.JPG');
+    justify-content: center;
+    background-repeat: repeat;
+    min-width: 100vh;
+    min-height: 100vh;
+    background-size: 40%;
+    flex: 1;
+}
