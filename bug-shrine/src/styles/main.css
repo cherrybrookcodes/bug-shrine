@@ -1,9 +1,9 @@
-main, body {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
     display: flexbox;
     margin: 0;
-    padding: 0 ;
-    justify-content: centre ;
+    padding: 0;
     min-width: 100vh;
     min-height: 100vh;
-    ;
 }

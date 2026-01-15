@@ -1,0 +1,13 @@
+
+
+.welcome {
+    position:fixed;
+    text-align: center;
+    top: 75%;
+    left: 50%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-size:x-large;
+}

@@ -1,9 +1,10 @@
 import './styles/App.css'
+import Daycalc from './components/welcometext';
 
 function App() {
 return (
     <div className="App">
-        <h1>Welcome Bug</h1>
+        <Daycalc/>
     </div>
 );
 }
